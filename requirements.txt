@@ -1,0 +1,17 @@
+category_encoders==2.5.1.post0
+cmaps==2.0.1
+faiss_gpu==1.7.2
+ipython==8.7.0
+keras==2.11.0
+matplotlib==3.6.2
+numpy==1.22.4
+pandas==1.5.2
+scikit_learn==1.2.0
+scipy==1.7.3
+seaborn==0.13.0
+setuptools==65.5.0
+six==1.16.0
+sympy==1.12
+tensorflow==2.11.0
+tensorflow_privacy==0.8.7
+tensorflow_probability==0.15.0
